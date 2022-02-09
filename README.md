@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hello World 😄
 Software engineer, passionate about technology and good years dedicated to software development.
 
-- 🔭 Working on multiple backend project using basically the ecosystem Java
+- 🔭 Working on multiple backend project using basically the ecosystem Java and Kotlin
 - 🌱 Currently learning software architecture in depth
 <br>
 
